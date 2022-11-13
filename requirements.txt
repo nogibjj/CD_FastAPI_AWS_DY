@@ -1,3 +1,6 @@
 pytest
 pylint
 click
+Flask
+black
+pytest-cov
