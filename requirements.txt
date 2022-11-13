@@ -4,3 +4,5 @@ click
 Flask
 black
 pytest-cov
+fastapi
+uvicorn
