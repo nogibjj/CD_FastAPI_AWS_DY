@@ -12,7 +12,7 @@ async def root():
 
 
 @app.get("/poem/")
-async def poem():
+async def todaypoem():
     poem = poemgen()
     return poem
 
