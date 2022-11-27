@@ -6,3 +6,6 @@ black
 pytest-cov
 fastapi
 uvicorn
+requests
+bs4
+json
