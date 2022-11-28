@@ -4,11 +4,10 @@ import uvicorn
 
 app = FastAPI()
 
+
 @app.get("/")
 async def root():
-    return {
-        "message": "Do you ready to get today's poem? Call /poem"
-    }
+    return {"message": "Do you ready to get today's poem? Call /poem"}
 
 
 @app.get("/poem/")
