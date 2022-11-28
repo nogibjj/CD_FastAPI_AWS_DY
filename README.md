@@ -1,7 +1,6 @@
-# DY_Template
+# Ancient Chinese Poem Line Generator
 
 [![Continuous Integration](https://github.com/nogibjj/DY_Template/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/DY_Template/actions/workflows/main.yml)
-
 [![AWS CodeBuild](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiSG5uQmUyM1VTeFp1eUtkUjRrT2RidENRYXRGRmYyVUwwWW9zZUhhQ2xoNnB2THdmYWduSHQ4Ny9LUVZUK2JwcFBkUUMyMEpjWFJJNGdQNmUzQldqUFRBPSIsIml2UGFyYW1ldGVyU3BlYyI6IjlEYjJDekFMOGE4NE4vL0MiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
 
